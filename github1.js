@@ -1,4 +1,4 @@
-let texto = "hola github 1"
+let texto = "hola github 1 mod1"
 
 
 window.addEventListener("DOMContentLoaded",()=>{

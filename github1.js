@@ -1,4 +1,4 @@
-let texto = "hola github 1 mod2 cambios desde github"
+let texto = "hola github 1 mod2 cambios desde github CLONE"
 
 
 window.addEventListener("DOMContentLoaded",()=>{
